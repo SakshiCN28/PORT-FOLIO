@@ -4,7 +4,7 @@ import { Quote } from 'lucide-react';
 export default function Testimonials() {
   const testimonials = [
     {
-      quote: "Amruta's ability to take complex machine learning datasets and hook them directly into our real-time React analytics dashboard was a game-changer for our collaborative project. Her attention to detail is outstanding.",
+      quote: "Sakshi's ability to take complex machine learning datasets and hook them directly into our real-time React analytics dashboard was a game-changer for our collaborative project. Her attention to detail is outstanding.",
       author: "Sarah Jenkins",
       role: "Lead Project Manager, Neural Dynamics Labs"
     },
@@ -14,7 +14,7 @@ export default function Testimonials() {
       role: "Senior Data Scientist, Data Analytics Group"
     },
     {
-      quote: "Amruta has a rare combination of structural AI/Data Science understanding and visual frontend capability. She refactored our open-source neural dashboards, providing clean React components and fast layouts.",
+      quote: "Sakshi has a rare combination of structural AI/Data Science understanding and visual frontend capability. She refactored our open-source neural dashboards, providing clean React components and fast layouts.",
       author: "Elena Rostova",
       role: "Open-Source Coordinator, GitHub ML Devs"
     }

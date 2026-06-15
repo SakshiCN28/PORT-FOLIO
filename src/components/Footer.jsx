@@ -11,12 +11,12 @@ export default function Footer() {
         {/* Brand logo */}
         <a href="#hero" className="flex items-center gap-2 text-lg font-bold text-white">
           <Brain className="w-5 h-5 text-secondary" />
-          <span>AMRUTA<span className="text-secondary">.AI</span></span>
+          <span>SAKSHI<span className="text-secondary">.AI</span></span>
         </a>
 
         {/* Copyright notice */}
         <p className="text-sm text-slate-500 text-center md:order-none">
-          &copy; {currentYear} Amruta Malipatil. Artificial Intelligence & Data Science Developer. All rights reserved.
+          &copy; {currentYear} Sakshi Nagonde. Artificial Intelligence & Machine Learning Developer. All rights reserved.
         </p>
 
         {/* Social Links */}

@@ -25,14 +25,14 @@ export default function Hero() {
 
           {/* Heading */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight leading-[1.1] mb-6">
-            Hi, I'm <span className="text-gradient-primary">Amruta</span>.<br />
+            Hi, I'm <span className="text-gradient-primary">Sakshi</span>.<br />
             Shaping the Future <br />
             with <span className="text-gradient-cyber">AI & Web Tech.</span>
           </h1>
 
           {/* Description */}
           <p className="text-slate-400 text-lg md:text-xl max-w-2xl mb-10 leading-relaxed">
-            Developing advanced machine learning architectures, designing visual data pipelines, and engineering high-performance responsive web applications. Specializing in AI & Data Science.
+            Developing advanced machine learning architectures, designing visual data pipelines, and engineering high-performance responsive web applications. Specializing in AI & Machine Learning.
           </p>
 
           {/* CTA Buttons */}
@@ -70,7 +70,7 @@ export default function Hero() {
               <div className="w-full h-full rounded-full bg-darkBg overflow-hidden">
                 <img
                   src="/developer-avatar.png"
-                  alt="Amruta Malipatil"
+                  alt="Sakshi Nagonde"
                   className="w-full h-full object-cover scale-105"
                   onError={(e) => {
                     // Fallback to visual icon if image fails to load

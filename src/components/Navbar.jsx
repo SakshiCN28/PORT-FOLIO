@@ -51,7 +51,7 @@ export default function Navbar() {
         {/* Brand logo */}
         <a href="#hero" className="flex items-center gap-2 text-xl font-extrabold tracking-tight text-white">
           <Brain className="w-6 h-6 text-secondary animate-pulse" />
-          <span>AMRUTA<span className="text-secondary">.AI</span></span>
+          <span>SAKSHI<span className="text-secondary">.AI</span></span>
         </a>
 
         {/* Desktop navigation */}

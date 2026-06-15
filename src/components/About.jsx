@@ -33,11 +33,11 @@ export default function About() {
               <div className="absolute top-0 left-0 w-full h-[4px] bg-gradient-to-r from-primary via-secondary to-accent" />
               
               <div className="w-24 h-24 rounded-2xl bg-gradient-to-tr from-primary to-secondary mb-6 flex items-center justify-center text-white font-black text-3xl shadow-lg">
-                AM
+                SN
               </div>
               
-              <h3 className="text-2xl font-bold text-white mb-2">Amruta Malipatil</h3>
-              <p className="text-secondary font-semibold text-sm mb-6">AI & Data Science Student / Software Developer</p>
+              <h3 className="text-2xl font-bold text-white mb-2">Sakshi Nagonde</h3>
+              <p className="text-secondary font-semibold text-sm mb-6">AI & Machine Learning Student / Software Developer</p>
               
               <p className="text-slate-400 text-sm leading-relaxed mb-6">
                 I design pipelines to preprocess massive data streams, train neural architectures, and integrate AI models into high-performance web systems. My passion lies at the intersection of deep learning algorithms and responsive React frontends.
@@ -46,7 +46,7 @@ export default function About() {
               <div className="grid grid-cols-2 gap-4 border-t border-white/5 pt-6">
                 <div>
                   <span className="text-slate-500 text-xs uppercase tracking-wider block">Branch</span>
-                  <span className="text-white text-sm font-semibold">AI & Data Science</span>
+                  <span className="text-white text-sm font-semibold">AI & Machine Learning</span>
                 </div>
                 <div>
                   <span className="text-slate-500 text-xs uppercase tracking-wider block">Location</span>
@@ -61,7 +61,7 @@ export default function About() {
             <h3 className="text-2xl font-bold text-white leading-tight">My Journey & Expertise</h3>
             
             <p className="text-slate-400 leading-relaxed text-base">
-              During my academic journey in the **Artificial Intelligence & Data Science** branch, I have focused on the mathematical foundations of statistical learning and the architectural scale of modern databases. Over time, I discovered a love for creating beautiful, accessible, and fast frontends to expose these models to the world.
+              During my academic journey in the **Artificial Intelligence & Machine Learning** branch, I have focused on the mathematical foundations of statistical learning and the architectural scale of modern databases. Over time, I discovered a love for creating beautiful, accessible, and fast frontends to expose these models to the world.
             </p>
             
             <p className="text-slate-400 leading-relaxed text-base">

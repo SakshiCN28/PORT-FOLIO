@@ -33,7 +33,7 @@ export default function Contact() {
     setTimeout(() => {
       setStatus({
         type: 'success',
-        msg: 'Connection established! Your message has been sent successfully to Amruta.'
+        msg: 'Connection established! Your message has been sent successfully to Sakshi.'
       });
       // Clear fields
       setFormData({ name: '', email: '', subject: '', message: '' });
@@ -70,8 +70,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-xs uppercase tracking-wider text-slate-500 font-bold mb-1">Email</h4>
-                  <a href="mailto:amruta.ml@outlook.com" className="text-white text-sm font-semibold hover:text-primary transition-colors">
-                    amruta.ml@outlook.com
+                  <a href="mailto:22sakshinagonde@gmail.com" className="text-white text-sm font-semibold hover:text-primary transition-colors">
+                    22sakshinagonde@gmail.com
                   </a>
                 </div>
               </div>
@@ -190,7 +190,7 @@ export default function Contact() {
                     value={formData.message}
                     onChange={handleInputChange}
                     rows={4}
-                    placeholder="Hi Amruta, I was impressed by your AI & Data Science portfolio..."
+                    placeholder="Hi Sakshi, I was impressed by your AI & Machine Learning portfolio..."
                     className="bg-black/25 border border-white/10 text-white rounded-xl p-3 text-sm focus:outline-none focus:border-primary transition-colors focus:ring-1 focus:ring-primary/20 resize-none"
                   />
                 </div>
