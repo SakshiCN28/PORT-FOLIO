@@ -33,10 +33,10 @@ export default function About() {
               <div className="absolute top-0 left-0 w-full h-[4px] bg-gradient-to-r from-primary via-secondary to-accent" />
               
               <div className="w-24 h-24 rounded-2xl bg-gradient-to-tr from-primary to-secondary mb-6 flex items-center justify-center text-white font-black text-3xl shadow-lg">
-                SN
+                SC
               </div>
               
-              <h3 className="text-2xl font-bold text-white mb-2">Sakshi Nagonde</h3>
+              <h3 className="text-2xl font-bold text-white mb-2">SakshiCN28</h3>
               <p className="text-secondary font-semibold text-sm mb-6">AI & Machine Learning Student / Software Developer</p>
               
               <p className="text-slate-400 text-sm leading-relaxed mb-6">

@@ -70,7 +70,7 @@ export default function Hero() {
               <div className="w-full h-full rounded-full bg-darkBg overflow-hidden">
                 <img
                   src="/developer-avatar.png"
-                  alt="Sakshi Nagonde"
+                  alt="SakshiCN28"
                   className="w-full h-full object-cover scale-105"
                   onError={(e) => {
                     // Fallback to visual icon if image fails to load

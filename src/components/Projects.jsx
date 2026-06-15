@@ -16,7 +16,7 @@ export default function Projects() {
       tech: ['PyTorch', 'ResNet-50', 'OpenCV', 'NumPy', 'Scikit-Learn'],
       icon: <Brain className="w-8 h-8 text-primary" />,
       glowColor: 'rgba(139, 92, 246, 0.4)',
-      github: 'https://github.com/22sakshinagonde/neurolink-mri',
+      github: 'https://github.com/SakshiCN28/neurolink-mri',
       demo: '#',
     },
     {
@@ -29,7 +29,7 @@ export default function Projects() {
       tech: ['Python', 'XGBoost', 'Prophet', 'Pandas', 'PostgreSQL'],
       icon: <Database className="w-8 h-8 text-secondary" />,
       glowColor: 'rgba(6, 182, 212, 0.4)',
-      github: 'https://github.com/22sakshinagonde/demand-forecast',
+      github: 'https://github.com/SakshiCN28/demand-forecast',
       demo: '#',
     },
     {
@@ -42,7 +42,7 @@ export default function Projects() {
       tech: ['TensorFlow', 'Keras', 'LSTM', 'NLTK', 'Flask'],
       icon: <Network className="w-8 h-8 text-accent" />,
       glowColor: 'rgba(236, 72, 153, 0.4)',
-      github: 'https://github.com/22sakshinagonde/sentinet-nlp',
+      github: 'https://github.com/SakshiCN28/sentinet-nlp',
       demo: '#',
     },
     {
@@ -55,7 +55,7 @@ export default function Projects() {
       tech: ['JavaScript', 'HTML5 Canvas', 'Q-Learning', 'Neural Approximation'],
       icon: <Cpu className="w-8 h-8 text-emerald-400" />,
       glowColor: 'rgba(16, 185, 129, 0.4)',
-      github: 'https://github.com/22sakshinagonde/rl-self-driving',
+      github: 'https://github.com/SakshiCN28/rl-self-driving',
       demo: '#',
     },
     {
@@ -68,7 +68,7 @@ export default function Projects() {
       tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Socket.io'],
       icon: <Layers className="w-8 h-8 text-indigo-400" />,
       glowColor: 'rgba(99, 102, 241, 0.4)',
-      github: 'https://github.com/22sakshinagonde/devconnect',
+      github: 'https://github.com/SakshiCN28/devconnect',
       demo: '#',
     },
     {
@@ -81,7 +81,7 @@ export default function Projects() {
       tech: ['React', 'Tailwind CSS', 'Chart.js', 'WebSockets', 'AWS IoT'],
       icon: <Code className="w-8 h-8 text-sky-400" />,
       glowColor: 'rgba(14, 165, 233, 0.4)',
-      github: 'https://github.com/22sakshinagonde/iot-telemetry',
+      github: 'https://github.com/SakshiCN28/iot-telemetry',
       demo: '#',
     }
   ];

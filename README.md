@@ -1,4 +1,4 @@
-# Sakshi Nagonde | AI & ML Developer Portfolio
+# SakshiCN28 | AI & ML Developer Portfolio
 
 Welcome to my portfolio! This repository showcases my journey, projects, and skills at the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Software Development**. 
 
@@ -7,7 +7,7 @@ The portfolio features a sleek, interactive glassmorphic design with a custom pa
 ---
 
 ## 🚀 Live Demo & Repository
-- **GitHub Repository**: [https://github.com/22sakshinagonde/Port-folio.git](https://github.com/22sakshinagonde/Port-folio.git)
+- **GitHub Repository**: [https://github.com/SakshiCN28/PORT-FOLIO.git](https://github.com/SakshiCN28/PORT-FOLIO.git)
 
 ---
 
@@ -41,8 +41,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recom
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/22sakshinagonde/Port-folio.git
-   cd Port-folio
+   git clone https://github.com/SakshiCN28/PORT-FOLIO.git
+   cd PORT-FOLIO
    ```
 
 2. **Install dependencies**:
@@ -95,6 +95,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recom
 
 ## 👤 Profile & Contacts
 
-- **Developer**: Sakshi Nagonde
+- **Developer**: SakshiCN28
 - **Focus**: Artificial Intelligence, Machine Learning, Natural Language Processing, Full-Stack Web Applications
-- **GitHub**: [@22sakshinagonde](https://github.com/22sakshinagonde)
+- **GitHub**: [@SakshiCN28](https://github.com/SakshiCN28)

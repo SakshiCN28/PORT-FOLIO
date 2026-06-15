@@ -16,7 +16,7 @@ export default function Footer() {
 
         {/* Copyright notice */}
         <p className="text-sm text-slate-500 text-center md:order-none">
-          &copy; {currentYear} Sakshi Nagonde. Artificial Intelligence & Machine Learning Developer. All rights reserved.
+          &copy; {currentYear} SakshiCN28. Artificial Intelligence & Machine Learning Developer. All rights reserved.
         </p>
 
         {/* Social Links */}
